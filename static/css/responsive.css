@@ -1,0 +1,385 @@
+@media only screen and (max-width:1290px) {
+    .video-section-top ul{margin: 0 -15px;}
+    .video-section-top ul li{padding: 0 15px 100px 15px;}
+    .video-section-details{margin: 0;}
+    .photos-section-middle ul{margin: 0 -9px;}
+    .photos-section-middle ul li{padding: 0 9px 18px 9px;}
+}
+@media only screen and (max-width:1200px) {
+    .container{max-width: 100%;}
+    .logo{padding: 0;max-width: 10%;flex: 0 0 10%;-webkit-flex: 0 0 10%;}
+    .header-details{padding: 25px 0;}
+    nav{padding: 29px 0 0 15px !important;max-width: 90% !important;flex: 0 0 90% !important;-webkit-flex: 0 0 90% !important;}
+    nav > ul > li{padding: 0 7px;float: none;vertical-align: top;}
+    nav > ul{width: 84.5%;text-align: center;font-size: 0;}
+    .donate{width: 15.5%;}
+    .donate > ul > li{padding: 0 0 0 7px;}
+    .header-details,.meet-content{margin: 0;}
+    .banner-content{padding: 4px 0 0 30px;}
+    .meet-content{padding:8px 0 0 30px;}
+    .meet2 .meet-content,.meet4 .meet-content,.banner-content,.meet-content{padding:0;}
+    .meet1 .meet-content{padding: 30px 30px 0 0;}
+    .meet3 .meet-content{padding: 30px 30px 0 0;}
+    .meet-content p br,.meet-content h2 br{display: none;}
+    .footer-details{padding: 40px 0;margin: 0;}
+    .signup{padding: 25px 15px;}
+    .footer-top-left{padding: 0 30px 0 0;}
+    .footer-top-right{padding: 25px 0 0 0;}
+    .footer-middle{padding: 25px 0;}
+    .impact-top h2{padding: 0 0 20px 0;}
+    .footer-bottom{padding: 25px 0 0 0;}
+    .footer-bottom-left{padding: 0;}
+    .share{right: 15px;}
+    .meet-content p a{margin: 0;}
+    .meet4 .meet-content p{padding: 0 0 16px 0;}
+    
+    /* malaria-v10-v2-ahr responsive starts here */
+    h1,.banner1 .banner-content h1{font-size: 62px;line-height: 66px;}
+    h2,.head-2,.meet3 .meet-content h2{font-size: 46px;line-height: 50px;}
+    h3,.global-results-middle h3,.masonry-grid-content h3,.accordion-item-content h3{font-size: 29px;line-height: 33px;}
+    h4,.masonry-grid-content h4{font-size: 24px;line-height: 28px;}
+    .banner1 .banner-content{margin: 0;padding: 300px 0 43px 0;}
+    .what-is-malaria-details,.web-support-details,.impact-details,.typography-details{padding: 40px 0;margin: 0;}
+    .what-is-malaria-right,.impact-bottom-left,.help-us-content{padding: 0;}
+    .what-is-malaria-left{padding:0 20px 0 0;}
+    .what-is-malaria-right-content{padding:0 57px 0 10px;}
+    .slide a{padding: 16px 30px 12px 21px;}
+    .what-is-malaria-left h2,.what-is-malaria-right-content h3,.impact-bottom-right h3,.help-us-content h2{padding: 0 0 5px 0;}
+    p,.what-is-malaria-left p .link1{font-size: 22px;line-height: 30px;}
+    .what-is-malaria-right-content p{line-height: 24px;}
+    .malaria-section-details{margin: 0;padding:120px 0;}
+    .malaria-section-content h2{padding: 0 0 20px 0;}
+    .web-support-details h2{padding: 0 0 12px 0;}
+    .fighting-malaria-details{margin: 0;padding:90px 0;}
+    .our-stories{padding:16px 0 0 0;text-align: center;}
+    .our-stories p{padding: 10px 0 30px 0;}
+    .our-stories ul li{float: none;vertical-align: top;padding: 0 6px;}
+    .impact-main h3{padding: 20px 0 10px 0;}
+    .impact-top{padding: 0 0 30px 0;}
+    .impact-bottom-right{padding: 0 0 0 20px;}
+    .impact-bottom-right ul{padding: 15px 0 0 0;}
+    .help-us-details{margin: 0;padding: 120px 0;}
+    .help-us-content p{padding: 0 0 15px 0;}
+    .slide-out-details{padding: 40px 15px;}
+    .global-results-top,.global-results-bottom{padding: 25px 0;}
+    .global-results-middle{padding: 15px 0 20px 0;}
+    .global-results-middle h3{padding: 0 0 20px 0;}
+    .slide-out-details h4{padding: 0 0 10px 0;}
+    .treatment{padding: 20px 0 16px 0;}
+    .treatment-left{padding: 0;}
+    .treatment-right{padding: 0 0 0 20px;}
+    .global-results-top-main p br,.global-results-middle h3 br{display: none;}
+    /* malaria-v10-v2-ahr responsive ends here */
+    
+    /* kitchen-sink responsive starts here */
+    .video-section-top-main figcaption{left: 15px;}
+    .rules-details,.tags-details,.accordion-section-details,.masonry-grid-details,.photos-section-details,.callout-details,.forms-section-details,.tables-section-details,.the-onion-details{margin: 0;padding: 30px 0;}
+    .video-section-details{padding: 30px 0 0 0;margin: 0;}
+    .typography-main,.rule-main,.buttons-main,.pagination-main,.tags-main,.accordion-section-main,.caraousels-top,.masonry-grid-main,.video-section-top,.photos-section-main,.callout-main,.forms-section-main,.tables-section-main,.the-onion-main{padding: 30px 0 0 0;}
+    .rule11,.rule12{padding: 0 25px 99px 0;}
+    .rule-main-left,.tags-right{padding: 0;}
+    .rule-main-right,.callout-right{padding: 0 0 0 20px;}
+    .buttons-details,.tabbed-content-details,.caraousels-details{margin: 0;padding: 25px 0;}
+    .pagination-details{margin: 0;padding: 20px 0;}
+    .pagination-left{padding:5px 45px 0 37px;}
+    .pagination-right{padding:5px 37px 0 45px;}
+    .next{right: 10px;}
+    .prev1{left: 10px;}
+    .next1{right: 0;}
+    .pagination-main .btn5{padding: 6px 12px 6px 12px;}
+    .tabbed-content-top{padding: 30px 0;}
+    .caraousels-top .slider:after,.caraousels-top1 .slider1:before,.caraousels-top1 .slider1:after,.caraousels-top .slider:before,.caraousels-top2 .slider2:before,.caraousels-top2 .slider2:after{height: 100%;}
+    .video-section-top ul{margin: 0 -15px;}
+    .video-section-top ul li{padding: 0 15px 30px 15px;}
+    .photos-section-middle{padding: 25px 0 0 0;}
+    .photos-section-bottom{padding: 0 0 25px 0;}
+    .callout-right-content,.forms-section-top{padding: 25px 15px;}
+    .callout-main ul li{padding: 0 0 16px 0;}
+    .forms-section-top-right{padding: 36px 0 20px 20px;}
+    .forms-section-top:after{left: 50%;height: 100%;top: 0;}
+    .forms-section-top-left{padding: 0 20px 20px 0;}
+    .forms-section-bottom{padding: 35px 0 0 0;}
+    .forms-section-bottom-left{padding: 0 20px 0 0;}
+    .forms-section-bottom-right{padding: 0 0 0 20px;}
+    .forms-section-bottom-right > ul > li,.forms-section-bottom .form-group,.forms-section-bottom-right > ul > li.select-list{padding: 0 0 25px 0;}
+    .check-labels ul li{padding: 0 0 12px 0;}
+    .the-onion-bottom-details{margin: 0;padding: 0 0 50px 0;}
+    .technical a,.technical a:hover{padding: 12px 17px 10px 17px;}
+    .the-onion-top-left{padding: 0 15px 0 0;}
+    .the-onion-rop-right{padding: 0 0 0 15px;}
+    .the-onion-top ul li{padding: 0 0 16px 0;}
+    .masonry-grid-main ul{margin: 0 -5px;}
+    .masonry-grid-main ul li{padding: 0 5px 10px 5px;}
+    .masonry-grid-content1,.masonry-grid-content{padding: 20px 15px;}
+    .masonry-grid-content-right{padding: 10px 15px 10px 0;}
+    .masonry-grid-content-left{padding: 0 5px 0 0;}
+    .masonry-grid-content h6{line-height: 21px;}
+    .typography-right-top > ul > li{padding: 0 0 16px 0;}
+    .hyperlink-typography{padding: 15px 0;}
+    .hyperlink-typography-left > ul > li{padding: 0 0 10px 0;}
+    .typography-toggle1{padding: 15px 0 0 0;}
+    .typography-left ul li{padding: 0 0 20px 0;}
+    .para1{font-size: 30px;line-height: 36px;}
+    .typography-left h2,.typography-left h3,.typography-left h4,.accordion-item-content h3{padding: 0 0 8px 0;}
+    h5{font-size: 23px;line-height: 27px;}
+    h6{line-height: 22px;}
+    .typography-right{padding: 0;}
+    .buttons-main ul{padding: 0 0 25px 0;}
+    .caraousels-top-wrap{margin: 0 30px;}
+    .caraousels-top1 .slick-active .caraousels-top-wrap1{margin: 0 10px 0 30px;}
+    .caraousels-top1 .slick-active .caraousels-top-wrap{margin: 0 9px 0 10px;}
+    .caraousels-top2 .slick-active .caraousels-top-wrap2{margin: 0 2px 0 9px;}
+    .caraousels-top2 .slick-active .caraousels-top-wrap3{margin: 0 9px 0 0;}
+    .caraousels-top1 .slick-prev,.caraousels-top2 .slick-prev{left: 119px;}
+    .caraousels-top1 .slick-next,.caraousels-top2 .slick-next{right: 119px;}
+    .accordion-item h6{padding: 15px 41px 15px 15px;font-size: 19px;line-height: 23px;}
+    .accordion-item-content{padding: 0 15px 20px 15px;}
+    .accordion-item-content p{padding: 0 0 10px 0;}
+    .tabbed-content-bottom .tabbed-content-wrap,.tabbed-content-wrap{padding: 30px 15px;}
+    .caraousels-top-content{padding: 25px 15px;}
+    .tables-section-main ul li{padding: 10px 5px;}
+    .forms-section-bottom label,.forms-section-bottom label.field1{padding: 0 0 8px 0;}
+    .fileupload h6 a{line-height: 19px;}
+    /* kitchen-sink responsive ends here */
+	
+}
+@media only screen and (max-width:1024px) {
+    nav > ul > li{padding: 0 5px;}
+    .slide-out{width: 100%;right: -100%;}
+    
+    /* kitchen-sink responsive starts here */
+    .rule-main-left{max-width: 15%;flex: 0 0 15%;-webkit-flex:0 0 15%;}
+    .rule-main-right{max-width: 85%;flex: 0 0 85%;-webkit-flex:0 0 85%;}
+    .btn1,.btn2,.btn3{padding: 15px 15px 17px 15px;}
+    .caraousels-top .slick-prev{left: 168px;}
+    .caraousels-top .slick-next{right: 168px;}
+    /* kitchen-sink responsive ends here */
+}
+@media only screen and (max-width:991px) {
+    .megamenu{position: static;opacity: 1;visibility: visible;display: none;padding: 10px 0 0 0;}
+    .header-details{padding: 20px 0;}
+    .logo{max-width:85%;flex: 0 0 85%;-webkit-flex: 0 0 85%;padding: 0 15px 0 0;}
+    .logo a img{width: 120px;}
+    .menu{display: inline-block;vertical-align: top;padding: 24px 0 0 0;}
+    nav{position: fixed !important;top: 0;right:-250px;width: 250px !important;height: 100%;overflow: auto;background: #ffffff;transition: all 0.3s ease-in-out;-ms-transition: all 0.3s ease-in-out;-o-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;max-width: 100% !important;flex: 0 0 100% !important;-webkit-flex:0 0 100% !important;padding: 15px !important;}
+    .menu-open nav{right: 0;}
+    .menu-open .close{display: inline-block;float: right;}
+    nav > ul{float: none;width: 100%;padding: 40px 0 0 0 ;}
+    .donate{float: none !important;width: 100%;text-align: center;padding: 10px 0 0 0;}
+    nav > ul > li{display: block;}
+    nav > ul > li > a{display: block;color: #3f3e3e;padding: 12px;border-radius: 3px;}
+    .megamenu ul li a{color: #3f3e3e;}
+    nav > ul > li > a > span > .fa{color: #3f3e3e;}
+    nav > ul > li > a:hover,nav > ul > li > a:focus{color: #ffffff;background: #c55035;}
+    nav > ul > li > a:focus .fa{color: #ffffff;}
+    nav > ul > li > a:hover span > .fa{color: #ffffff;}
+    .donate > ul > li,.donate > ul > li:first-child{float: none;display: block;padding: 0 0 10px 0;}
+    .donate .btn1{width: 100%;}
+    .donate button .fa{color: #3f3e3e;}
+    
+    /* malaria-v10-v2-ahr responsive starts here */
+    h1,.banner1 .banner-content h1{font-size:54px;line-height:58px;}
+    h2,.head-2,.meet3 .meet-content h2{font-size: 42px;line-height: 46px;}
+    h3, .global-results-middle h3, .masonry-grid-content h3, .accordion-item-content h3{font-size: 27px;line-height: 31px;}
+    p, .what-is-malaria-left p .link1{font-size: 21px;line-height: 28px;}
+    .banner1 .banner-content{padding:202px 0 55px 0;}
+    .malaria-section-details{padding: 92px 0;}
+    .malaria-section-content h2{padding: 0 0 15px 0;}
+    .our-stories p{padding: 10px 0 20px 0;}
+    .fighting-malaria-details{padding: 60px 0;}
+    .impact-main figure img{width: 175px;}
+    .impact-bottom-right{padding: 25px 0 0 0;text-align: center;}
+    .impact-bottom-right ul{font-size: 0;text-align: center;}
+    .impact-bottom-right ul li{float: none;vertical-align: top;}
+    .help-us-details{padding: 70px 0;}
+    .footer-bottom-right ul li{padding: 0 0 0 15px;}
+    .footer-bottom-right ul{float: none !important;text-align: center;}
+    .footer-bottom-left{padding: 0 0 10px 0;}
+    .footer-bottom-left ul{text-align: center;font-size: 0;width: 100%;vertical-align: top;}
+    .footer-bottom-left ul li{float: none;vertical-align: top;padding: 0 8px 8px 8px;}
+    .footer-bottom-left ul li:after{display: none;}
+    /* malaria-v10-v2-ahr responsive ends here */
+    
+    /* kitchen-sink responsive starts here */
+    .tabbed-content-top-left{padding: 0;}
+    .tabbed-content-top-right{padding:30px 0 0 0;}
+    .caraousels-top-main figure img{height: 320px;object-fit: cover;}
+    .caraousels-top1 .slick-list,.caraousels-top2 .slick-list{padding: 0 80px;}
+    .caraousels-top1 .caraousels-top-main figure img{height: 215px;}
+    .caraousels-top2 .caraousels-top-main figure img{height: 160px;}
+    .caraousels-top-wrap{margin: 0 20px;}
+    .caraousels-top1 .slick-active .caraousels-top-wrap{margin: 0 6px;}
+    .caraousels-top2 .slick-active .caraousels-top-wrap{margin: 0 6px;}
+    .caraousels-top1 .slick-prev, .caraousels-top2 .slick-prev{left: 62px;}
+    .caraousels-top1 .slick-next, .caraousels-top2 .slick-next{right: 62px;}
+    .masonry-grid-content{position: static;background: #3f3e3e;margin: -2px 0 0 0;}
+    .video-play1{bottom: auto;top: 15px;}
+    .tables-section-main h6{font-size: 13px;line-height: 15px;}
+    .forms-section-bottom-left{padding: 0;}
+    .forms-section-bottom-right{padding: 30px 0 0 0;}
+    .masonry-grid-main ul li.grid2,.masonry-grid-main ul li.grid1{max-width: 100%;flex: 0 0 100%;-webkit-flex: 0 0 100%;}
+    .masonry-grid-main ul li{width:49.5%;float: left;}
+    .next{right: 0;}
+    .prev1{left: 0;}
+    .pagination-left{padding:5px 38px 25px 40px;text-align: center;}
+    .pagination-right{padding: 5px 37px 0 40px;text-align: center;}
+    .typography-main, .rule-main, .buttons-main, .pagination-main, .tags-main, .accordion-section-main, .caraousels-top, .masonry-grid-main, .video-section-top, .photos-section-main, .callout-main, .forms-section-main, .tables-section-main, .the-onion-main{padding: 20px 0 0 0;}
+    /* kitchen-sink responsive ends here */
+}
+@media only screen and (max-width:767px) {
+    /* malaria-v10-v2-ahr responsive starts here */
+    h1, .banner1 .banner-content h1{font-size: 48px;line-height: 52px;}
+    h2, .head-2,.meet3 .meet-content h2{font-size: 34px;line-height: 38px;}
+    h3, .global-results-middle h3, .masonry-grid-content h3, .accordion-item-content h3{font-size: 26px;line-height: 30px;}
+    h5,.footer-middle-left h5{font-size: 22px;line-height: 26px;}
+    p, .what-is-malaria-left p .link1,.our-stories p{font-size: 19px;line-height: 25px;}
+    .banner1 .banner-content{padding: 180px 0 40px 0;}
+    .what-is-malaria-details, .web-support-details, .impact-details{padding: 30px 0;}
+    .what-is-malaria-left{padding:0 0 20px 0;}
+    .what-is-malaria-right-content{padding: 0 0 0 10px;}
+    .malaria-section-details,.fighting-malaria-details,.help-us-details{padding: 50px 0;}
+    .impact-top ul{margin: 0;}
+    .impact-top ul li{padding: 0 0 25px 0;}
+    .impact-main h3{padding: 10px 0 6px 0;}
+    .help-us-content{text-align: center;}
+    .footer-top-left{padding: 0;}
+    .explore{padding: 15px 0 0 0;}
+    .footer-top-right-bottom{padding: 20px 0 0 0;}
+    .footer-middle-left{padding: 0 0 20px 0;}
+    .footer-middle-right a{float: none !important;}
+    .signup .form-group1,.signup .form-group2{max-width: 100%;flex: 0 0 100%;-webkit-flex:0 0 100%;}
+    .share{bottom: 15px;}
+    .slide{top: 15px;}
+    .slide a{padding: 10px 14px 10px 21px;}
+    .slide a .fa{font-size: 25px;line-height: 25px;}
+    .what-is-malaria-details{padding: 75px 0 30px 0;}
+    .web-support-details{text-align: center;}
+    .web-support-details ul{font-size: 0;text-align: center;}
+    .web-support-details ul li{float: none;vertical-align: top;}
+    .help-us-content a,.banner-content .btn1,.meet-content .btn1{padding:8px 15px 12px 15px;font-size: 22px;line-height: 24px;}
+    .slide-out-details{padding:46px 15px 30px 15px;}
+    .treatment-left ul li{padding: 0 0 12px 0;}
+    .treatment-right{padding:20px 0 0 0;}
+    .global-results-middle{padding: 0 0 20px 0;}
+    /* malaria-v10-v2-ahr responsive ends here */
+    
+    /* kitchen-sink responsive starts here */
+    .masonry-grid-content-right{position: static;text-align: left;}
+    .callout-right{padding: 0;}
+    .typography-left{padding: 0 0 20px 0;}
+    .typography-left ul li,.typography-right-top > ul > li{padding: 0 0 10px 0;}
+    .tags-left{padding: 0 0 20px 0;}
+    .typography-details{padding: 30px 0;}
+    .tabbed-content-details h2.resp-accordion{color: #8c8b8b;font-size:16px;line-height:18px;font-family: 'Graphik-Semibold';padding: 12px 19px 12px 20px !important;background: #cbd5d4 !important;}
+    .tabbed-content-wrap{padding: 25px 15px;border: 1px solid #c1c1c1;}
+    .tabbed-content-details .resp-tab-active a{color: #3f3e3e !important;}
+     .tabbed-content-details h2.resp-tab-active{background: #f1f1f1 !important;}
+    .tabbed-content-details h2.resp-tab-active span.resp-arrow{border-bottom-color: #3f3e3e;}
+    .btn1, .btn2, .btn3{padding: 10px 15px 12px 15px;}
+    .buttons-main ul li{padding:0 5px 10px 5px;}
+    .tags-right ul li{padding: 0 10px 9px 0;}
+    .caraousels-top-main figure img{height: 245px;}
+    .caraousels-top .slick-prev{left: 59px;}
+    .caraousels-top .slick-next{right: 59px;}
+    .caraousels-top1 .slick-list, .caraousels-top2 .slick-list{padding: 0 40px;}
+    .caraousels-top1 .slick-prev, .caraousels-top2 .slick-prev{left: 23px;}
+    .caraousels-top1 .slick-next, .caraousels-top2 .slick-next{right: 23px;}
+    .photos-section-top ul{font-size: 0;text-align: center;}
+    .photos-section-top ul li{width: 25%;float: none;vertical-align: top;}
+    .forms-section-top:after{display: none;}
+    .forms-section-top-left{padding: 0;}
+    .forms-section-top-right{padding: 20px 0 0 0;}
+    .forms-section-top-right ul{padding: 10px 0 0 0;}
+    .forms-section-top-right ul li{padding: 0 0 6px 0;}
+    .forms-section-top button{margin: 0 !important;}
+    .forms-section-bottom-right > ul > li, .forms-section-bottom .form-group, .forms-section-bottom-right > ul > li.select-list{padding: 0 0 16px 0;}
+    .forms-section-bottom-right{padding: 0;}
+    .tables-section-details{padding: 15px 0 30px 0;}
+    .the-onion-rop-right{padding: 0;}
+    .the-onion-top ul li{padding: 0 0 10px 0;}
+    .the-onion-bottom-details{padding: 0 0 35px 0;}
+    .tables-section-main{overflow-x: scroll;}
+    .tables-section-main-wrap{width: 1000px;padding: 0 0 20px 0;}
+    /* kitchen-sink responsive ends here */
+	
+}
+@media only screen and (max-width:575px) {
+    /* malaria-v10-v2-ahr responsive starts here */
+    h1, .banner1 .banner-content h1{font-size: 44px;line-height: 48px;}
+    h2, .head-2, .meet3 .meet-content h2{font-size: 31px;line-height: 35px;}
+    h3, .global-results-middle h3, .masonry-grid-content h3, .accordion-item-content h3{font-size: 24px;line-height: 28px;}
+    h5, .footer-middle-left h5{font-size: 20px;line-height: 24px;}
+    p, .what-is-malaria-left p .link1,.our-stories p{font-size: 18px;line-height: 24px;}
+    .banner1 .banner-content{padding:142px 0 40px 0;}
+    .malaria-section-details, .fighting-malaria-details, .help-us-details{padding: 35px 0;}
+    .help-us-content a,.banner-content .btn1,.meet-content .btn1{font-size: 20px;line-height: 22px;}
+    /* malaria-v10-v2-ahr responsive ends here */
+    
+    /* kitchen-sink responsive starts here */
+    .masonry-grid-main ul li{width: 100%;float: none;display: block;}
+    .rule-main-left{max-width: 20%;flex: 0 0 20%;-webkit-flex: 0 0 20%;}
+    .rule-main-right{max-width: 80%;flex: 0 0 80%;-webkit-flex: 0 0 80%;}
+    .pagination-main ul li a{padding: 0 4px 8px 4px;}
+    .caraousels-top2 .caraousels-top-main figure img,.caraousels-top1 .caraousels-top-main figure img{height: 267px;}
+    .caraousels-top1 .slick-list, .caraousels-top2 .slick-list{padding: 0 65px;}
+    .caraousels-top-wrap{margin: 0 30px;}
+    .caraousels-top1 .slick-prev, .caraousels-top2 .slick-prev{left: 44px;}
+    .caraousels-top1 .slick-next, .caraousels-top2 .slick-next{right: 44px;}
+    .caraousels-top .slider:after,.caraousels-top1 .slider1:before,.caraousels-top1 .slider1:after,.caraousels-top .slider:before,.caraousels-top2 .slider2:before,.caraousels-top2 .slider2:after{display: none;}
+    .technical1{top: 110px;}
+    .photos-section-top ul li{width: 33.3%;}
+    .video-section-top-main figcaption{bottom: 20px;font-size: 22px;line-height: 24px;}
+    .video-play2 figure img{width: 25px;height: auto;}
+    /* kitchen-sink responsive ends here */
+}
+@media only screen and (max-width:479px) {
+    /* malaria-v10-v2-ahr responsive starts here */
+    h1, .banner1 .banner-content h1{font-size:31px;line-height: 34px;}
+    h2, .head-2, .meet3 .meet-content h2{font-size:25px;line-height:29px;}
+    h3, .global-results-middle h3, .masonry-grid-content h3, .accordion-item-content h3{font-size: 23px;line-height: 27px;}
+    .web-support-details ul li{width: 50%;}
+    .web-support-details ul li a{display: block;}
+    .footer-middle-left h5{font-size: 16px;line-height: 20px;}
+    .footer-middle-left h5 img{width: 20px;margin: 0 0 0 4px;}
+    .help-us-content a, .banner-content .btn1,.meet-content .btn1{font-size: 18px;line-height: 20px;}
+    /* malaria-v10-v2-ahr responsive ends here */
+    
+    /* kitchen-sink responsive starts here */
+    .the-onion-bottom-left{width: 100%;}
+    .the-onion-bottom-overlay{left: 0;width: 100%;}
+    .technical1{right: 15px;}
+    .checkbox-group label{display: block;}
+    .checkbox-group span{display: block;}
+    .checkbox-group input:checked + span,.checkbox-group input:checked + span.frozen,.checkbox-group span.radio-field1{border-radius: 21px;}
+    .rule-main-left{max-width: 24%;flex: 0 0 24%;-webkit-flex: 0 0 24%;}
+    .rule-main-right {max-width: 76%;flex: 0 0 76%;-webkit-flex: 0 0 76%;}
+    .caraousels-top-wrap,.caraousels-top1 .slick-active .caraousels-top-wrap,.caraousels-top2 .slick-active .caraousels-top-wrap{margin: 0;}
+    .caraousels-top1 .slick-list, .caraousels-top2 .slick-list{padding: 0;}
+    .caraousels-details{padding: 25px 20px;}
+    .caraousels-top .slick-next{right: -15px;}
+    .caraousels-top .slick-prev{left: -15px;}
+    .caraousels-top2 .caraousels-top-main figure img, .caraousels-top1 .caraousels-top-main figure img{height: auto;}
+    .pagination-main ul li{padding: 0 4px 4px 4px;}
+    .pagination-left{padding: 0 38px 25px 40px;}
+    .pagination-right{padding: 0 37px 0 40px;}
+    /* kitchen-sink responsive ends here */
+    
+}
+@media only screen and (min-width:991px) {
+	nav > ul > li:hover .megamenu{opacity: 1;visibility: visible;}
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

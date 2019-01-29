@@ -1,0 +1,42 @@
+// Use this file to overwrite the basic Bootstrap variables and add your own variables
+// To overwrite a Bootstrap variable you don´t have to touch the Bootstrap folder. 
+// Just copy a variable from /sass/bootstrap/_variables.scss, paste it here and edit the value.
+// As example you find one of the most important Bootstrap variable below: $brand-primary.
+// Thats the ugly Bootstrap blue used for all the links, primary buttons etc.
+// Just add your color code here, compile the theme.scss file to change this color everywhere
+
+
+//
+// Color system
+//
+
+:root {
+
+$blue: #006580;
+$brand-primary: #00667D;
+$secondary: #26cad3;
+$teal: #006580;
+$aqua: #26cad3;
+$sky-blue: #41abe6;
+$jade: #00aa88;
+$yellow-ochre: #dac637;
+$rust-red: #c55035;
+$cerise-pink: #be0064;
+$lilac: #9b7ab1;
+$cornflower-blue: #0087cd;
+$emerald: #008869;
+$ochre: #b19e33;
+$claret: #a72959;
+$plum: #7a295b;
+$mauve: #7b83aa;
+$blue-grey: #6f9394;
+$light-blue-grey: #d3e1e4;
+$light-grey: #cad4d4;
+$charcoal: #3e3e3d;
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
